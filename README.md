@@ -12,8 +12,8 @@ GPU-ZIP is a Python script that utilizes GPU power to speed up compression of fo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/zip-folder-gpu.git
-    cd zip-folder-gpu
+    git clone https://github.com/bimantaraz/GPU-ZIP.git
+    cd GPU-ZIP
     ```
 
 2. Install the required packages:
