@@ -27,5 +27,5 @@ GPU-ZIP is a Python script that utilizes GPU power to speed up compression of fo
 To compress a folder using GPU, run the following command:
 
 ```bash
-python main.py /path/to/your/folder /path/to/output.zip
+python main.py
 ```
