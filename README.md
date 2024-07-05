@@ -1,6 +1,6 @@
-# Zip Folder GPU
+# GPU-ZIP: Super Fast Folder Compression with GPU
 
-A Python script to compress a folder using GPU with CuPy and display progress in the terminal.
+GPU-ZIP is a Python script that utilizes GPU power to speed up compression of folders into ZIP files. Using the Cupy library, this script reads and writes file data at a much higher speed than traditional methods.
 
 ## Requirements
 - CuPy
