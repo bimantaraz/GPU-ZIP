@@ -1,0 +1,3 @@
+cupy
+zipfile36
+tqdm
